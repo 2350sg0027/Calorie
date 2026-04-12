@@ -1,0 +1,8 @@
+[
+  { "name": "ダブルチーズバーガー", "price": 430, "calorie": 459, "salt": 2.9 },
+  { "name": "倍ダブルチーズバーガー", "price": 790, "calorie": 657, "salt": 3.8 },
+  { "name": "ポテトL", "price": 440, "calorie": 515, "salt": 0.9 },
+  { "name": "てりやきチキンフィレオ", "price": 490, "calorie": 496, "salt": 3.2 },
+  { "name": "ポテナゲ特大", "price": 980, "calorie":1817, "salt":5.3},
+  { "name": "オレオフルーリー", "price": 340, "calorie": 233, "salt": 0.4 }
+]
