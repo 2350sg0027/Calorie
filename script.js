@@ -57,7 +57,7 @@ function updateTotal(){
     
     document.getElementById("totalPrice").textContent = totalPrice;
     document.getElementById("totalCalorie").textContent = totalCalorie;
-    document.getElementById("totalSalt").textContent = totalSalt;
+    document.getElementById("totalSalt").textContent = totalSalt.toFixed(1);
 }
 
 function saveData(){
