@@ -6,7 +6,7 @@
 
 ## デモ
 
-https2350sg0027.github.ioCalorie
+[https2350sg0027.github.ioCalorie](https://2350sg0027.github.io/Calorie/)
 
 ## 主な機能
 
